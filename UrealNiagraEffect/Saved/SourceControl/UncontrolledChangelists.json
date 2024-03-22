@@ -1,0 +1,41 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Arham/Documents/Unreal Projects/UrealNiagraEffect/Content/MyAssets/BaseLevel.umap",
+				"C:/Users/Arham/Documents/Unreal Projects/UrealNiagraEffect/Content/MyAssets/Material/Blue.uasset",
+				"C:/Users/Arham/Documents/Unreal Projects/UrealNiagraEffect/Content/MyAssets/Actors/MovingObject.uasset",
+				"C:/Users/Arham/Documents/Unreal Projects/UrealNiagraEffect/Content/MyAssets/Niagara/RibbonSystem.uasset",
+				"C:/Users/Arham/Documents/Unreal Projects/UrealNiagraEffect/Content/MyAssets/Actors/NiagraActor.uasset",
+				"C:/Users/Arham/Documents/Unreal Projects/UrealNiagraEffect/Content/MyAssets/material_0.uasset",
+				"C:/Users/Arham/Documents/Unreal Projects/UrealNiagraEffect/Content/MyAssets/BaseLevel_BuiltData.uasset",
+				"C:/Users/Arham/Documents/Unreal Projects/UrealNiagraEffect/Content/MyAssets/TEX_textured_output.uasset",
+				"C:/Users/Arham/Documents/Unreal Projects/UrealNiagraEffect/Content/MyAssets/textured_output.uasset",
+				"C:/Users/Arham/Documents/Unreal Projects/UrealNiagraEffect/Content/MyAssets/Material/CustomRibbonMaterial.uasset",
+				"C:/Users/Arham/Documents/Unreal Projects/UrealNiagraEffect/Content/MyAssets/Niagara/CircularSpawner.uasset",
+				"C:/Users/Arham/Documents/Unreal Projects/UrealNiagraEffect/Content/MyAssets/Niagara/Hologram.uasset",
+				"C:/Users/Arham/Documents/Unreal Projects/UrealNiagraEffect/Content/MyAssets/Actors/MovingCamera.uasset",
+				"C:/Users/Arham/Documents/Unreal Projects/UrealNiagraEffect/Content/MyAssets/Material/CaptureCamera.uasset",
+				"C:/Users/Arham/Documents/Unreal Projects/UrealNiagraEffect/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
+				"C:/Users/Arham/Documents/Unreal Projects/UrealNiagraEffect/Content/MyAssets/Niagara/AudioReactive.uasset",
+				"C:/Users/Arham/Documents/Unreal Projects/UrealNiagraEffect/Content/MyAssets/Material/NiagaraMaterial.uasset",
+				"C:/Users/Arham/Documents/Unreal Projects/UrealNiagraEffect/Content/MyAssets/yves.umap",
+				"C:/Users/Arham/Documents/Unreal Projects/UrealNiagraEffect/Content/StarterContent/Materials/M_Basic_Wall.uasset",
+				"C:/Users/Arham/Documents/Unreal Projects/UrealNiagraEffect/Content/SCK_Casual01/Materials/Master_Materials/MAT_H_A1.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineMaterials/NewBaseFlattenMaterial.uasset",
+				"C:/Users/Arham/Documents/Unreal Projects/UrealNiagraEffect/Content/MyAssets/Niagara/CoolEffect.uasset",
+				"C:/Users/Arham/Documents/Unreal Projects/UrealNiagraEffect/Content/MyAssets/Niagara/FuzzyWuzzy.uasset",
+				"C:/Users/Arham/Documents/Unreal Projects/UrealNiagraEffect/Content/MyAssets/Niagara/CircularSpawner_System.uasset",
+				"C:/Users/Arham/Documents/Unreal Projects/UrealNiagraEffect/Content/MyAssets/Actors/NewBlueprint.uasset",
+				"C:/Users/Arham/Documents/Unreal Projects/UrealNiagraEffect/Content/MyAssets/Niagara/NewNiagaraSystem.uasset",
+				"C:/Users/Arham/Documents/Unreal Projects/UrealNiagraEffect/Content/MyAssets/Material/NewNiagaraSystem.uasset",
+				"C:/Users/Arham/Documents/Unreal Projects/UrealNiagraEffect/Content/MyAssets/Niagara/HolographicMapSystem.uasset",
+				"C:/Users/Arham/Documents/Unreal Projects/UrealNiagraEffect/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/Arham/Documents/Unreal Projects/UrealNiagraEffect/Content/StarterContent/Maps/Advanced_Lighting.umap"
+			]
+		}
+	]
+}
